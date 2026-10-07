@@ -1,2 +1,1 @@
-# 2jotas.github.io
-Personal site · John Ortiz
+Personal site of John Ortiz. Static HTML/CSS/JS, no build step.
