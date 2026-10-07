@@ -36,12 +36,12 @@ const PROJECTS = [
     title: 'Espejos Agenda Pro',
     status: 'live',
     problem: {
-      es: 'En mi propia barbería: ordenar las reservas y el seguimiento de clientes.',
-      en: 'In my own barbershop: keeping bookings and client follow-up organized.'
+      es: 'Nace de lo que vivo en el oficio como barbero en una peluquería: la agenda y el seguimiento de clientes.',
+      en: 'It comes from what I see in my trade as a barber at a hair salon: bookings and client follow-up.'
     },
     built: {
-      es: 'Agenda + CRM para barberos y estilistas: link de reservas personal, fichas de clientes, recordatorios por WhatsApp, sincronización con Google Calendar, visagismo con IA y planes Free/Pro.',
-      en: 'Booking + CRM for barbers and stylists: personal booking link, client records, WhatsApp reminders, Google Calendar sync, AI visagism and Free/Pro plans.'
+      es: 'Agenda + CRM para barberos y estilistas: link de reservas personal, fichas de clientes, recordatorios por WhatsApp, sincronización con Google Calendar y planes Free/Pro.',
+      en: 'Booking + CRM for barbers and stylists: personal booking link, client records, WhatsApp reminders, Google Calendar sync and Free/Pro plans.'
     },
     stack: ['TypeScript', 'Fastify', 'Prisma', 'React', 'Vite', 'Tailwind', 'Redis', 'WebAuthn', 'Docker Compose', 'Nginx'],
     links: [
